@@ -1,0 +1,5 @@
+2025-03-05 13:22:13,301 - INFO - Starting GTM update process
+2025-03-05 13:22:13,301 - INFO - Current version: 178
+2025-03-05 13:22:13,301 - INFO - Fetching GTM container from: https://www.googletagmanager.com/gtm.js?id=GTM-XXXX
+2025-03-05 13:22:13,413 - INFO - Found remote version: 178
+2025-03-05 13:22:13,413 - INFO - Already at the latest version, no update needed
