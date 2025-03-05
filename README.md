@@ -1,4 +1,4 @@
-# GTM Auto-Update Tool
+# Google Tag Manager 1st-party implementation and Auto-Update Tool
 
 A lightweight Python tool to automatically check for and deploy updates to your Google Tag Manager (GTM) container.
 This tool essentially stores a fresh version of the GTM container on your website, meaning you can serve it locally, as a 1st-party resource.
